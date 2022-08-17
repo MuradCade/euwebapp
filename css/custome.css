@@ -3,3 +3,11 @@
 body{
     font-family: 'Merriweather', serif !important;
 }
+
+#button-link{
+    width:200px !important;
+}
+
+ .button-center > a{
+    background-color: red !important;
+}
