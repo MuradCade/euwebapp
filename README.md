@@ -1,5 +1,5 @@
 # Syllabus
-Syllabus is Website That Student Use To Download And Keep Track Of Their University Courses etc .
+Syllabus is Website That Student Use To Download And Keep Track Of Their documents or outlines etc .
 
 # Features
  * Login / Register
