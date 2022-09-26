@@ -4,6 +4,9 @@ body{
     font-family: 'Merriweather', serif !important;
 }
 
+.nav-link{
+    font-size: 14px !important;
+}
 #button-link{
     width:200px !important;
 }
